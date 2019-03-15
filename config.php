@@ -1,5 +1,5 @@
 <?php
 	return array(
-	    'FILE_LOCATION' => "/home/share/db/"
+	    'FILE_LOCATION' => "/Users/vireak/share/"
 	);
 ?>
